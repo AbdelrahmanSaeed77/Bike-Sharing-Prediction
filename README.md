@@ -18,5 +18,3 @@ The following steps were followed in the project:
 
 **Feature Importance**: Ablation studies were conducted to understand the impact of individual features on the model's performance. The analysis revealed the significance of temperature, weather conditions, and seasonality features in predicting bike demand.
 
-**Model Deployment**: The selected model was deployed in a live production setting, where it could make real-time predictions of bike demand. The model's performance was monitored over time to ensure its accuracy and usefulness.
-
